@@ -25,26 +25,6 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
   - Real-time query processing
   - Clear result presentation
 
-## How to Run
-
-1. **Setup Environment**
-   ```bash
-   # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_data_analysis_agent
-
-   # Install dependencies
-   pip install -r requirements.txt
-   ```
-
-2. **Configure API Keys**
-   - Get OpenAI API key from [OpenAI Platform](https://platform.openai.com)
-
-3. **Run the Application**
-   ```bash
-   streamlit run ai_data_analyst.py
-   ```
-
 ## Usage
 
 1. Launch the application using the command above
